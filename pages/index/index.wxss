@@ -1,0 +1,14 @@
+.click {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate3d(-50%, -50%, 0);
+    height: 200rpx;
+    width: 200rpx;
+    color: #fff;
+    font-size: 40rpx;
+    background-color: #1ca8e7;
+    border-radius: 50%;
+    line-height: 200rpx;
+    text-align: center;
+}

@@ -1,0 +1,7 @@
+.text {
+    position: absolute;
+    top: 30%;
+    width: 100%;
+    color: #1ca8e7;
+    text-align: center;
+}

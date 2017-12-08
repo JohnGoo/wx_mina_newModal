@@ -1,0 +1,3 @@
+<view class='text'>
+    <text>页面跳转速度</text>{{speed ? '<':'>'}}<text>接口加载速度</text>
+</view>
